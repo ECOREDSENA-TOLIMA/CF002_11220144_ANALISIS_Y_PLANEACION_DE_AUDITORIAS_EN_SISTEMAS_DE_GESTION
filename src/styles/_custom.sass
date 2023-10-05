@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 75%
   &-2
+    animation: float1 2.1s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 0%
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 75%
+    right: 75%
 
 
 @keyframes float1
@@ -17,3 +22,52 @@
 
   100%
     transform: translateY(0px)
+
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  border-bottom-left-radius: 1.4em 
+  border-bottom-right-radius: 1.4em 
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $color-acento-contenido
+    border-bottom-left-radius: 1.4em 
+    border-bottom-right-radius: 1.4em 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+.cajon.color-primario
+  background-color: lighten($color-primario, 10%)
+
+.tarjeta.color-primario-b
+  background-color: lighten($color-primario, 10%)
+
+.texto-negro
+  color: black
+
+.tarjeta.tarjeta--azul.acordion__activo, .tarjeta.tarjeta--gris.acordion__activo
+  background-color: lighten($color-primario, 10%)
+
+.bloque-texto-g__texto_2 
+  position: relative
+  width: 60%
+  background-color: rgba(255, 255, 255, 0.95)
+
+@media (max-width: 992px)
+  .bloque-texto-g__texto_2
+    width: 100%
