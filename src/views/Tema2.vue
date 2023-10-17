@@ -186,8 +186,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Método de evaluación y tratamiento del riesgo</i>
         figure 
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-4a.png', alt='En la figura 4 se muestra un mapa conceptual sobre el método de evaluación y tratamiento de riesgos; teniendo en cuenta la identificación de activos y la forma como deben ser tratados.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-4b.png', alt='En la figura 4 se muestra un mapa conceptual sobre el método de evaluación y tratamiento de riesgos; teniendo en cuenta la identificación de activos y la forma como deben ser tratados.')
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema2/fig-4a.png', alt='Figura 4. Método de evaluación y tratamiento del riesgo. inicia con la identificación de activos a partir de los criterios de amenazas, vulnerabilidades y requisitos legales.')
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema2/fig-4b.png', alt='Figura 4. Método de evaluación y tratamiento del riesgo. inicia con la identificación de activos a partir de los criterios de amenazas, vulnerabilidades y requisitos legales.')
 
     p.mb-4(data-aos="fade-down") De acuerdo a la anterior figura se explicará cada uno de los aspectos o pasos que se deben definir y cuál es su función.
 

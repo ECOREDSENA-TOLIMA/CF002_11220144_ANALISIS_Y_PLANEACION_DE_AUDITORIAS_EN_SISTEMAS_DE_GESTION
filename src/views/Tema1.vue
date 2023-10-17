@@ -55,7 +55,7 @@
 
     p.mb-4(data-aos="fade-down") La necesidad de la información de una organización cambia dependiendo de la naturaleza del trabajo, la actividad a hacer y las metas que se quieran obtener, varían de consenso al grado que ocupen los individuos en la organización, o sea, los directivos necesitan de más información que los técnicos para lograr desarrollar su trabajo y estar sujetos a la naturaleza interna o externa.
     p.mb-4(data-aos="fade-down") Por otro lado, la necesidad de contar con información es de gran importancia para las organizaciones, al mismo tiempo toda empresa necesita tener acceso a la mayor cantidad de información posible. No importa el área funcional de la empresa, cada uno de los elementos que la integran necesitan en mayor o menor grado.
-    p.mb-4(data-aos="fade-down") Para el nivel directivo en una empresa, la información es utilizada para diseñar estrategias y trazar el camino que se debe seguir, por tal motivo es de vital importancia que esta información sea oportuna y especifica. En el área intermedia de la información se utiliza para diseñar estrategias específicas que permitan el logro de los objetivos que se establecieron en el nivel directivo. Por otro lado, en el área operativa la información que se maneja es detallada en los procesos, productos, actividades que los trabajadores necesitan para llevar a cabo las actividades de cada área.
+    p.mb-4(data-aos="fade-down") Para el nivel directivo en una empresa, la información es utilizada para diseñar estrategias y trazar el camino que se debe seguir, por tal motivo es de vital importancia que esta información sea oportuna y especifica. En el área intermedia de la información se utiliza para diseñar estrategias específicas que permitan el logro de los objetivos que se establecieron en el nivel directivo. Por otro lado, en el área operativa la información que se maneja es detallada en los procesos, productos, actividades que los trabajadores necesitan para llevar a cabo las tareas de cada área.
 
     p.mb-4(data-aos="fade-down") A continuación, se revisará cómo es el manejo de la información en una organización en los diferentes niveles.
 
@@ -379,7 +379,7 @@
                   p Las actividades de auditoría no interactivas no implican interacción humana con las personas que representan al auditado, pero sí implican la interacción con el equipo, las instalaciones y la documentación.
 
     p.mb-4(data-aos="fade-down") La información es el grupo de datos que configuran un mensaje que emite un emisor y que se pretende llegue al receptor para que pueda quedar reportado. Continuamente se realiza por medio de un canal que es el que uno de los dos interlocutores eligió.
-    p.mb-4(data-aos="fade-down") Las técnicas de recolección de información son herramientas de la auditoría empresarial, en la que se usan procedimientos de recolección, para detectar de forma estricta y concreta las fallas en las zonas, en sistemas, sobre los cuales se practicarán las respectivas pruebas. A continuación, se presenta la la recopilación de información en la auditoría.
+    p.mb-4(data-aos="fade-down") Las técnicas de recolección de información son herramientas de la auditoría empresarial, en la que se usan procedimientos de recolección, para detectar de forma estricta y concreta las fallas en las zonas, en sistemas, sobre los cuales se practicarán las respectivas pruebas. A continuación, se presenta la recopilación de información en la auditoría.
 
     .row.justify-content-center.mb-5
       .col-12.col-md-11.col-lg-9(data-aos="fade-left")
@@ -425,8 +425,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Características de la información</i>
         figure 
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-3a.png', alt='En la figura 3 evidencias las 4 características fundamentales de la información con su definición: completa, correcta, consistente y actual.')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-3b.png', alt='En la figura 3 evidencias las 4 características fundamentales de la información con su definición: completa, correcta, consistente y actual.')
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema1/fig-3a.png', alt='Figura 3. Características de la información  debe ser completa, correcta, consistente y actual.')
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/fig-3b.png', alt='Figura 3. Características de la información  debe ser completa, correcta, consistente y actual.')
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
