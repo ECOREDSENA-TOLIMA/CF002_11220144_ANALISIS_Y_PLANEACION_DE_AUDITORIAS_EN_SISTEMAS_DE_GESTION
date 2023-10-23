@@ -55,7 +55,7 @@
 
     p.mb-4(data-aos="fade-down") La necesidad de la información de una organización cambia dependiendo de la naturaleza del trabajo, la actividad a hacer y las metas que se quieran obtener, varían de consenso al grado que ocupen los individuos en la organización, o sea, los directivos necesitan de más información que los técnicos para lograr desarrollar su trabajo y estar sujetos a la naturaleza interna o externa.
     p.mb-4(data-aos="fade-down") Por otro lado, la necesidad de contar con información es de gran importancia para las organizaciones, al mismo tiempo toda empresa necesita tener acceso a la mayor cantidad de información posible. No importa el área funcional de la empresa, cada uno de los elementos que la integran necesitan en mayor o menor grado.
-    p.mb-4(data-aos="fade-down") Para el nivel directivo en una empresa, la información es utilizada para diseñar estrategias y trazar el camino que se debe seguir, por tal motivo es de vital importancia que esta información sea oportuna y especifica. En el área intermedia de la información se utiliza para diseñar estrategias específicas que permitan el logro de los objetivos que se establecieron en el nivel directivo. Por otro lado, en el área operativa la información que se maneja es detallada en los procesos, productos, actividades que los trabajadores necesitan para llevar a cabo las tareas de cada área.
+    p.mb-4(data-aos="fade-down") Para el nivel directivo en una empresa, la información es utilizada para diseñar estrategias y trazar el camino que se debe seguir, por tal motivo es de vital importancia que esta información sea oportuna y especifica. En el área intermedia de la información se utiliza para diseñar estrategias específicas que permitan el logro de los objetivos que se establecieron en el nivel directivo. Por otro lado, en el nivel operativo, la información que se maneja es detallada en los procesos, productos, actividades que los trabajadores necesitan para llevar a cabo las tareas de sus respectivas áreas.
 
     p.mb-4(data-aos="fade-down") A continuación, se revisará cómo es el manejo de la información en una organización en los diferentes niveles.
 
@@ -141,7 +141,7 @@
       li ✔	Obtención de información difusa.
       li ✔	Uso de herramientas.
 
-    p.mb-5(data-aos="fade-down") A continuación, se puede observar el proceso del manejo de la información difusa para las organizaciones.
+    p.mb-5(data-aos="fade-down") A continuación, se puede analizar el proceso del manejo de la información difusa para las organizaciones.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down")
       .tarjeta.color-primario-b.p-4

@@ -210,6 +210,10 @@ export default {
         'https://www.firma-e.com/blog/pilares-de-la-seguridad-de-la-informacion-confidencialidad-integridad-y-disponibilidad/',
     },
     {
+      referencia: 'Fonseca, (2011). Existen varios tipos de ruido. ',
+      // link: ''
+    },
+    {
       referencia:
         'Huerta Zamora, A. (2016). El arte del manejo de la información y la información difusa. ',
       link:
@@ -223,8 +227,8 @@ export default {
     },
     {
       referencia:
-        'Isotools, (s.f.). ISO 27000. Normas para la Seguridad de la Información. ',
-      link: 'https://www.isotools.cl/iso27000/',
+        'Isotools, (s.f.). ISO 27000. Sistemas de Gestión la Seguridad de la Información. ',
+      link: 'https://www.isotools.us/normas/riesgos-y-seguridad/iso-27001/',
     },
     {
       referencia: 'Morales, A. (2019). Qué es la comunicación. ',

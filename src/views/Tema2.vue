@@ -221,7 +221,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema2/tema2-12.svg' alt='')
         h4.text-center Identificar los riesgos
-        p.mb-0 definir para cada activo las probabilidades de amenazas o vulnerabilidades que puedan causar un daño total o parcial comprometiendo su disponibilidad, confidencialidad e integridad.
+        p.mb-0 Definir para cada activo las probabilidades de amenazas o vulnerabilidades que puedan causar un daño total o parcial comprometiendo su disponibilidad, confidencialidad e integridad.
       .tarjeta.color-primario-b.p-4
         .row.justify-content-center.mb-3
           .col-8
